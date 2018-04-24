@@ -1,4 +1,4 @@
 # node
 Node app
 
-Following tutorial at https://help.shopify.com/api/tutorials/building-node-app
+Following tutorial at https://pipelines.puppet.com/docs/tutorials/nodejs-on-ubuntu-tutorial/
